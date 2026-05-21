@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test_c\\RemoveTheSpecifiedNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8DA1104-C4DE-47D2-95FC-DA4170AD299A}|RemoveTheSpecifiedNumber\\RemoveTheSpecifiedNumber.vcxproj|C:\\code\\test_c\\RemoveTheSpecifiedNumber\\RemoveTheSpecifiedNumber\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C8DA1104-C4DE-47D2-95FC-DA4170AD299A}|RemoveTheSpecifiedNumber\\RemoveTheSpecifiedNumber.vcxproj|solutionrelative:RemoveTheSpecifiedNumber\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\RemoveTheSpecifiedNumber\\RemoveTheSpecifiedNumber\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "RemoveTheSpecifiedNumber\\\u6E90.cpp",
+              "ToolTip": "C:\\code\\test_c\\RemoveTheSpecifiedNumber\\RemoveTheSpecifiedNumber\\\u6E90.cpp",
+              "RelativeToolTip": "RemoveTheSpecifiedNumber\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T06:55:00.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

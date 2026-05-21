@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test_c\\SaoLei2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|C:\\code\\test_c\\SaoLei2\\SaoLei2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|solutionrelative:SaoLei2\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|solutionrelative:SaoLei2\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9F783B53-9DFA-424F-856C-4990406695E8}|SaoLei2\\SaoLei2.vcxproj|solutionrelative:SaoLei2\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "game.h",
+              "DocumentMoniker": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.h",
+              "RelativeDocumentMoniker": "SaoLei2\\game.h",
+              "ToolTip": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.h",
+              "RelativeToolTip": "SaoLei2\\game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-23T08:58:36.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 279,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\test.cpp",
+              "RelativeDocumentMoniker": "SaoLei2\\test.cpp",
+              "ToolTip": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\test.cpp*",
+              "RelativeToolTip": "SaoLei2\\test.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-23T08:58:25.104Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 309,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "game.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.cpp",
+              "RelativeDocumentMoniker": "SaoLei2\\game.cpp",
+              "ToolTip": "C:\\code\\test_c\\SaoLei2\\SaoLei2\\game.cpp",
+              "RelativeToolTip": "SaoLei2\\game.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAGEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-23T08:58:13.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test_c\\LeapyearOrNot\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AB8C7-3961-4D6F-9879-411B24C143DA}|LeapyearOrNot\\LeapyearOrNot.vcxproj|C:\\code\\test_c\\LeapyearOrNot\\LeapyearOrNot\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A33AB8C7-3961-4D6F-9879-411B24C143DA}|LeapyearOrNot\\LeapyearOrNot.vcxproj|solutionrelative:LeapyearOrNot\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\LeapyearOrNot\\LeapyearOrNot\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "LeapyearOrNot\\\u6E90.cpp",
+              "ToolTip": "C:\\code\\test_c\\LeapyearOrNot\\LeapyearOrNot\\\u6E90.cpp",
+              "RelativeToolTip": "LeapyearOrNot\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T11:46:38.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

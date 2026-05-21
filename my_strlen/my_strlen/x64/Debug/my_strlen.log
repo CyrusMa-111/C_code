@@ -1,0 +1,3 @@
+﻿  源.cpp
+C:\code\test_c\my_strlen\my_strlen\源.cpp(11,11): warning C4244: “return”: 从“__int64”转换到“int”，可能丢失数据
+  my_strlen.vcxproj -> C:\code\test_c\my_strlen\x64\Debug\my_strlen.exe

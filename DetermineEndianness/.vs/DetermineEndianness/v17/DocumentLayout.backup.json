@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test_c\\DetermineEndianness\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A2E82C0-B2F2-4C0C-931F-27DA69679B37}|DetermineEndianness\\DetermineEndianness.vcxproj|C:\\code\\test_c\\DetermineEndianness\\DetermineEndianness\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9A2E82C0-B2F2-4C0C-931F-27DA69679B37}|DetermineEndianness\\DetermineEndianness.vcxproj|solutionrelative:DetermineEndianness\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\DetermineEndianness\\DetermineEndianness\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "DetermineEndianness\\\u6E90.cpp",
+              "ToolTip": "C:\\code\\test_c\\DetermineEndianness\\DetermineEndianness\\\u6E90.cpp",
+              "RelativeToolTip": "DetermineEndianness\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-19T02:06:53.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

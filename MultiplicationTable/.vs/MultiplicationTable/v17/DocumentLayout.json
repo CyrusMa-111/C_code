@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\code\\test_c\\MultiplicationTable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CC26BDE-2CCE-478C-8AD8-B36F684EFCE7}|MultiplicationTable\\MultiplicationTable.vcxproj|C:\\code\\test_c\\MultiplicationTable\\MultiplicationTable\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1CC26BDE-2CCE-478C-8AD8-B36F684EFCE7}|MultiplicationTable\\MultiplicationTable.vcxproj|solutionrelative:MultiplicationTable\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "C:\\code\\test_c\\MultiplicationTable\\MultiplicationTable\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "MultiplicationTable\\\u6E90.cpp",
+              "ToolTip": "C:\\code\\test_c\\MultiplicationTable\\MultiplicationTable\\\u6E90.cpp",
+              "RelativeToolTip": "MultiplicationTable\\\u6E90.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-22T12:08:27.3Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
